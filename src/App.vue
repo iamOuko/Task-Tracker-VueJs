@@ -39,7 +39,7 @@ export default {
         id: 3,
         text: 'school',
         day: 'march 1st',
-        reminder: true,
+        reminder: false,
       },
 
     ]
